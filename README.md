@@ -16,15 +16,15 @@
 
 <br/>
 
-## ( Update ): Project Achievement 🏆 
+## ( Update ): Project Achievement 🏆
 
 **Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
 
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
+**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**
 
 <br/>
 
-----
+---
 
 <br/>
 
@@ -47,14 +47,14 @@ I do need **support** from amazing people like you as I started posting on **[My
 
 ## Features
 
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
+- ### **Easy to Setup 💯**
+- ### **Free to Use ( OpenSource ) 🥳**
+- ### **No Additional Frameworks 🤘**
+- ### **No Additional Libraries 🙌**
+- ### **Multi Page 💎**
+- ### **Fully Responsive 🚀**
+- ### **Super Fast and Optimized for SEO ⚡**
+- ### **Great Audits Score 🎖️**
 
 <img src="https://i.ibb.co/1dD8Mky/Screenshot-from-2021-08-28-14-38-30.png" alt="Dopefolio Audits" width="100%" />
 
@@ -72,7 +72,7 @@ I do need **support** from amazing people like you as I started posting on **[My
 
 <br/>
 
-----
+---
 
 <br/>
 
@@ -172,7 +172,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
           class="header__logo-img"
         />
       </div>
-      <span class="header__logo-sub">John Doe</span>
+      <span class="header__logo-sub">Deepraj Chouhan</span>
     </div>
     <div class="header__main">
       <ul class="header__links">
@@ -233,7 +233,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
 <!-- **** Hero Section of Homepage **** -->
 <section class="home-hero">
   <div class="home-hero__content">
-    <h1 class="heading-primary">Hey, My name is John Doe</h1>
+    <h1 class="heading-primary">Hey, My name is Deepraj Chouhan</h1>
     <div class="home-hero__info">
       <p class="text-primary">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
@@ -325,7 +325,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
         <div class="about__content-details">
           <p class="about__content-details-para">
             Hey! It's
-            <strong>John Doe</strong>
+            <strong>Deepraj Chouhan</strong>
             and I'm a <strong> Frontend Web Developer </strong> located in Los
             Angeles. I've done
             <strong> remote </strong>
@@ -536,8 +536,6 @@ If you like to know how to submit forms so you can receive the form details in y
 <!-- END Contact Section -->
 ```
 
-
-
 ### Footer Section
 
 - Inside h4 tag with the class `heading heading-sm text-lt` add your name.
@@ -592,7 +590,7 @@ If you like to know how to submit forms so you can receive the form details in y
         </div>
       </div>
       <div class="main-footer__row main-footer__row-2">
-        <h4 class="heading heading-sm text-lt">John Doe</h4>
+        <h4 class="heading heading-sm text-lt">Deepraj Chouhan</h4>
         <p class="main-footer__short-desc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
           tempora explicabo quae quod deserunt
@@ -735,7 +733,6 @@ Each project will have its own Page. The project page will have important detail
 
 <br>
 
-
 ## Deployment 📦
 
 Once you have done with your setup. You need to put your website online!
@@ -750,7 +747,7 @@ Once you press the **Create Site Button** then you will have to follow the 3 ste
 
 2. Then select the Repository which you wanna host, in this case its your Portfolio website ( Clone of Dopefolio )
 
-3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **npm run build** and then modify the **Publish directory** and set its value to **/** as shown in the  **image** below
+3. In the 3rd step, you will have to modify the **Site settings and deploy**, keep everything as it is but just make sure to modify the **Build command** and set its value to **npm run build** and then modify the **Publish directory** and set its value to **/** as shown in the **image** below
 
 <div align="center">
   <img src="https://i.ibb.co/hDTTrPB/Set-Build-Command-to.png" alt="Dopefolio Build Command Example and Publish Directory Value" width="100%" />
@@ -779,13 +776,13 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**  
+- **Ram Maheshwari** - **[Linkedin](https://linkedin.com/in/rammcodes)**, **[Twitter](https://twitter.com/rammcodes)**, **[Github](https://github.com/rammcodes)**, **[Portfolio](https://rammaheshwari.com)**
 
 <br>
 
-#### Note: 
-I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
+#### Note:
 
+I'm currently looking for good **Job Opportunities** both **Remote ( Worldwide )** and **On-Site ( Anywhere in India )**. So, if you have a good opportunity that matches my skills experience then you can contact me on my **[Linkedin](https://linkedin.com/in/rammcodes)** or my email id **rammcodes@gmail.com** 🙌
 
 <br>
 
@@ -805,5 +802,4 @@ Special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring m
 
 ## License 📄
 
-This project is licensed under the  **GPL-3.0** License - see the [LICENSE](LICENSE) file for details
-
+This project is licensed under the **GPL-3.0** License - see the [LICENSE](LICENSE) file for details
